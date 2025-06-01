@@ -13745,6 +13745,11 @@ a.social-yout {
     margin-bottom: 25px;
   }
 }
+@media only screen and (max-width: 767px) {
+  .tp-cta-logo img {
+    width: 200px;
+  }
+}
 .tp-cta-content span {
   color: var(--tp-common-white);
   font-family: var(--tp-ff-secondary);

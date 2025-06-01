@@ -14995,6 +14995,7 @@ a.social-yout {
   color: var(--tp-heading-2);
 }
 .tp-contact-info-item {
+  height: 300px;
   padding: 30px;
   border-radius: 10px;
   border: 1px solid #E6E8F0;
@@ -15056,7 +15057,7 @@ a.social-yout {
   display: inline-block;
   text-align: center;
   line-height: 42px;
-  height: 46px;
+  height: 36px;
   width: 46px;
   border-radius: 6px;
   border: 1px solid #E6E8F0;
@@ -15851,6 +15852,7 @@ a.social-yout {
 .tp-program-item {
   padding: 15px 15px;
   border-radius: 14px;
+  height: 500px;
 }
 .tp-program-item:hover .tp-program-thumb img {
   transform: scale(1.08);
@@ -15867,6 +15869,7 @@ a.social-yout {
   -o-transition: all 0.3s 0s ease-out;
   transition: all 0.3s 0s ease-out;
   width: 100%;
+  height: 200px;
 }
 .tp-program-title {
   font-size: 22px;
@@ -35744,7 +35747,3 @@ span.common-pale-purple {
 }
 
 /*# sourceMappingURL=main.css.map */
- AC0C30
-
-
-.

@@ -2733,9 +2733,9 @@ div.demo img {
   line-height: 42px;
   text-align: center;
   cursor: pointer;
-  background-color: transparent;
+  background-color: #AB0C2F;
   transition: 0.3s linear;
-  border: 1px solid rgba(255, 255, 255, 0.3);
+  border: 1px solid #AB0C2F;
 }
 .offcanvas-open-btn span {
   font-size: 16px;
@@ -6962,12 +6962,13 @@ body .ui-tooltip {
   color: rgba(255, 255, 255, 0.7);
 }
 .tp-header-btn a {
+  background-color: #AB0C2F;
   font-size: 16px;
   font-weight: 500;
   border-radius: 6px;
   padding: 7px 24px 9px;
   color: var(--tp-common-white);
-  border: 1px solid rgba(255, 255, 255, 0.3);
+  border: 1px solid #AB0C2F;
   -webkit-transition: all 0.3s 0s ease-out;
   -moz-transition: all 0.3s 0s ease-out;
   -ms-transition: all 0.3s 0s ease-out;

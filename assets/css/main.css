@@ -11847,7 +11847,7 @@ a.social-yout {
 }
 @media only screen and (max-width: 767px) {
   .tp-hero-title {
-    font-size: 66px;
+    font-size: 36px;
   }
 }
 
@@ -12910,7 +12910,7 @@ a.social-yout {
   display: inline-block;
   position: absolute;
   right: -40px;
-  bottom: 80px;
+  bottom: 180px;
   padding: 7px 36px 20px 24px;
   border-radius: 6px;
   border: 1px solid rgba(1, 15, 28, 0.1);
@@ -14769,7 +14769,6 @@ a.social-yout {
   color: var(--tp-text-body);
 }
 .tp-contact-title {
-  font-size: 70px;
   font-weight: 600;
   line-height: 1;
   margin-bottom: 10px;

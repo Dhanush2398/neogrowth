@@ -334,7 +334,7 @@
 		effect: 'fade',
 		loop: true,
 		autoplay: {
-			delay: 3500,
+			delay: 8000,
 		},
 		// Navigation arrows
 		pagination: {

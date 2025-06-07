@@ -17259,6 +17259,7 @@ a.social-yout {
   border-radius: 16px;
   position: relative;
   z-index: 1;
+  height: 260px;
 }
 @media only screen and (min-width: 768px) and (max-width: 991px), only screen and (min-width: 576px) and (max-width: 767px), only screen and (max-width: 767px) {
   .tp-tutor-item {

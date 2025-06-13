@@ -5,7 +5,7 @@ $email = $_POST['email'] ?? '';
 $message = $_POST['message'] ?? '';
 $number = $_POST['phone'] ?? ''; 
 
-$to = ""; 
+$to = "loanfordailyneeds2025@gmail.com"; 
 
 $subject = "New contact from $name";
 $txt = "Name: $name\nPhone: $number\nEmail: $email\nMessage:\n$message";
